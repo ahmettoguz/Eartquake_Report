@@ -50,7 +50,7 @@ This project display eartquakes in the Turkey with animation.
 
 ## Contributors
 
-<a href="https://github.com/ahmettoguz" target="_blank"><img width=50 height=50 src="https://avatars.githubusercontent.com/u/101711642?v=4"></a> <a href="[https://github.com/ahmettoguz](https://github.com/ngVella)" target="_blank"><img width=50 height=50 src="https://avatars.githubusercontent.com/u/75096972?v=4"></a>
+<a href="https://github.com/ahmettoguz" target="_blank"><img width=50 height=50 src="https://avatars.githubusercontent.com/u/101711642?v=4"></a> <a href="https://github.com/ngVella" target="_blank"><img width=50 height=50 src="https://avatars.githubusercontent.com/u/75096972?v=4"></a>
 
 Project idea is belongs to Muhammet Karakök.
 Revised Project: https://deprem.karakok.net
