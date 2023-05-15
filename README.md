@@ -22,7 +22,7 @@
 
 <br/>
 
-https://user-images.githubusercontent.com/101711642/229424933-eea1b83a-34ff-46b9-b762-2ad5a0c300c4.mp4
+https://github.com/ahmettoguz/Eartquake_Report/assets/101711642/3d73049a-3aa8-42c9-9323-3238e84d249a
 
 <br/>
 
